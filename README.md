@@ -1,5 +1,5 @@
 ## Project Name
-Pig-Dice
+ The Pig-Dice game
 ## Author
 UMUTESIWASE Yvette
 ## Description
