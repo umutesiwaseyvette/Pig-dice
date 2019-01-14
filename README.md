@@ -12,7 +12,7 @@ The rules of the game are:
 * If a player chooses to "hold", their turn total is added to their score, and it becomes the next player's turn.
 The first player to score 100 or more points wins.
 ## Setup instructions
-Run this link:
+Run this link: https://umutesiwaseyvette.github.io/Pig-dice/
 ## Technogies used
 * HTML
 * CSS
