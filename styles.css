@@ -24,7 +24,7 @@ p,label,li{
 }
 .btn:hover{
      box-shadow: 0px 0px 10px #eee;
-  color: white;
+  color: rgb(15, 15, 44);
 }
 /*Styles for the Title Section*/
 #header {
@@ -63,7 +63,7 @@ p,label,li{
     margin: 0px;
 }
 #rulesHeader:hover {
-    color: white;
+    color: rgb(15, 15, 44);
 }
 #rules{
     border-bottom: 1px solid black;
@@ -78,7 +78,7 @@ p,label,li{
     font-weight: bolder;
 }
 .newGame:hover {
-    color: white;
+    color: rgb(15, 15, 44);
 }
 #playingForm {
     background-color: rgba(238, 238, 238, 0.4);
